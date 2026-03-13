@@ -96,21 +96,6 @@ database.sql
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots of your application here)*
-
-Example:
-
-```
-Home Page
-Product Page
-Cart Page
-Admin Dashboard
-```
-
----
-
 ## 📌 Future Improvements
 
 * Online payment integration
