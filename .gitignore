@@ -1,0 +1,17 @@
+# Dependencies and generated output
+node_modules/
+**/node_modules/
+build/
+**/build/
+
+# Local environment configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Package manager caches
+.pnpm-store/
+
+# Operating-system and archive artifacts
+.DS_Store
+*.zip
